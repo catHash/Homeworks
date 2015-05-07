@@ -1,0 +1,18 @@
+
+
+snort -dev -c Snort.conf
+
+  -d     Dump the application layer data when displaying packets in verbose or packet logging mode.
+   -e     Display/log the link layer packet headers.
+ -v     Be  verbose.   Prints  packets out to the console.  There is one big problem with verbose mode: it's slow.  If you
+              are doing IDS work with Snort, don't use the '-v' switch, you WILL drop packets.
+
+   -c config-file
+              Use the rules located in file config-file.
+
+sudo nmap -sF -p 9500 192.168.0.101
+
+sudo snort -dev -r logfile.log
+
+it wouldnt log the CS 410 homepage with the content "SIUC" but it did catch "siu"
+

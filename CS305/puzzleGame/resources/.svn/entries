@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://svn.cs.siu.edu/repos/305f13bargun"
+   revision="179"
+   last-author="gunn"
+   uuid="2b9a28ed-d614-4c39-88f9-00d57d43906b"
+   url="http://svn.cs.siu.edu/repos/305f13bargun/PegPuzzle/src/puzzleGame/resources"
+   committed-rev="158"
+   kind="dir"
+   committed-date="2013-11-18T18:47:15.975516Z"/>
+<entry
+   name="Credits.html"
+   checksum="725c2a060711403e21729e67a3701d60"
+   last-author="gunn"
+   text-time="2013-11-15T20:34:36.000000Z"
+   committed-rev="158"
+   kind="file"
+   committed-date="2013-11-18T18:47:15.975000Z"/>
+<entry
+   name="boardSnap.png"
+   checksum="b19e0549e8c0bef7f7ef1fcc5cd3b8de"
+   last-author="gunn"
+   text-time="2013-10-28T17:42:42.000000Z"
+   committed-rev="109"
+   kind="file"
+   committed-date="2013-10-28T17:42:42.247186Z"
+   prop-time="2013-11-04T20:46:53.000000Z"/>
+</wc-entries>
